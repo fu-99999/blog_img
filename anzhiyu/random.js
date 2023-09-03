@@ -1,0 +1,1 @@
+var posts=["2023/09/02/hello-world/","2023/05/23/14.Postman汉化教程/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
